@@ -1,4 +1,6 @@
-## howdy 🤠
+# howdy 🤠
+
+---
 
 # who am i?
 truth be told, I'm really just a kid who knows way too much coding
